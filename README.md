@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋, I'm Dieu Merci Niyonkuru
 
-<!--
-**dieumerci-niyonkuru/dieumerci-niyonkuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Software Developer**  
+**Java & PHP Backend | React Frontend**
 
-Here are some ideas to get you started:
+I am passionate about building **scalable, secure, and production-ready web applications**.  
+I enjoy learning new technologies, solving real-world problems, and writing clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- Java  
+- PHP  
+
+### 🎨 Frontend
+- React  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+
+### 🗄️ Databases
+- PostgreSQL  
+- MySQL  
+
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- Linux  
+- RESTful APIs  
+
+---
+
+## 🌱 Currently Learning
+- Advanced backend development  
+- API security & authentication  
+- Cloud & DevOps fundamentals  
+
+---
+
+## 👯 Looking to Collaborate On
+- Open-source projects  
+- Full-stack web applications  
+- Real-world problem-solving systems  
+
+---
+
+## 🤔 Looking for Help With
+- System design & architecture  
+- Performance optimization  
+- Large-scale application deployment  
+
+---
+
+## 💬 Ask Me About
+- Java & PHP backend development  
+- React & modern frontend development  
+- SQL & database design  
+
+---
+
+## 📫 How to Reach Me
+- GitHub: **@dieumerci-niyonkuru**  
+- Email: **dieumecin21@gmail.com**  
+
+---
+
+## ⚡ Fun Fact
+I believe **discipline, consistency, and continuous learning** are the keys to success 💪
