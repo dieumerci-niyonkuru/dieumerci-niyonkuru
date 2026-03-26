@@ -9,7 +9,7 @@ I am a passionate Full-Stack Software Developer and Certified Professional with 
 
 🎓 Software Development Student & Bootcamp Trainee
 📊 Certified Data Analyst
-🐧 OpenEuler Certified Professional
+🐧 Huawei ICT Competition Participant
 🌱 Currently mastering Node.js and Enterprise Backend Development
 🔍 Actively seeking professional internship or entry-level opportunities
 ⚡ Strong believer in discipline, consistency, and continuous improvement
