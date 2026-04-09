@@ -1,7 +1,6 @@
 👋 Hi, I'm Dieu Merci Niyonkuru
 
-🚀 Full-Stack Software Developer |  JavaScript (ES6+) | Node.js | Python (Django) | Java | PHP | React |
-💡Certified Data Analyst | OpenEuler Professional | Oracle DB | Data Analytics
+🚀 Full-Stack Software Developer | JavaScript (ES6+) | Node.js | Python (Django) | Java | PHP | React | PostgreSQL
  
 
 🧑‍💻 About Me
