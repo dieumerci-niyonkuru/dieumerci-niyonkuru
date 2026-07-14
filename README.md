@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-Full Stack Developer and Mobile Application Engineer with hands-on, production experience building and deploying cross-platform apps and web systems for companies and the public sector. Skilled across the full stack — Flutter/Dart for mobile, JavaScript/React/Tailwind CSS for frontend, and Node.js, Express, Laravel, Django and Java for backend — with strong command of REST API design, integration, and authentication (OAuth, JWT).
+Full Stack Developer and Mobile Application Engineer with hands-on, production experience building and deploying cross-platform apps and web systems for companies and the public sector. Skilled across the full stack — Flutter/Dart for mobile, JavaScript/React/Tailwind CSS for frontend, and Node.js, Express, Laravel, Django and Java for backend — with strong command of REST API design, integration, and authentication (OAuth, JWT) .
 
 Experienced across relational and non-relational databases (PostgreSQL, MySQL, Oracle, SQLite, MongoDB, Firebase, Redis, Supabase), and enterprise/cloud infrastructure (Huawei openEuler, Ubuntu/Linux, Docker, Kubernetes).
 
