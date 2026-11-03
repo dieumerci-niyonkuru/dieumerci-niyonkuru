@@ -9,7 +9,7 @@ Open to remote and hybrid engineering roles.
 ## Background
 
 - Mobile App Developer, Progemere / ITEC Ltd: production Flutter apps for enterprise and public-sector clients
-- Founder and CEO, Unity Platform
+- Founder and CEO, Remote Team Manager 
 - Advanced Diploma (A1) in Information Technology, RP IPRC Tumba College, 2024 to present
 - Currently deepening security, Kubernetes and backend architecture
 
